@@ -1,0 +1,9 @@
+__pycache__/*
+cython_debug/*
+.*.swp
+*.py
+*.out
+*.h5
+*.c
+*.html
+*.so

@@ -1,0 +1,1 @@
+../cypolyscat/cypolyscat.pxd
